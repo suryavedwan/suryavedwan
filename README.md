@@ -1,65 +1,84 @@
-# Hi, I'm Surya 👋
+<div align="center">
 
-## 🚀 About Me
-Aspiring Cloud Engineer passionate about AWS, Linux, Networking, and DevOps.  
-Currently learning cloud infrastructure, automation, and deployment technologies while building hands-on projects.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Surya
 
----
+### ☁️ Aspiring Cloud Engineer | AWS • EC2 • Linux • Networking • DevOps
 
-## ☁️ Skills & Technologies
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AWS+Cloud+Learner;Future+Cloud+Engineer;Learning+Linux+%26+DevOps;Building+Cloud+Projects;Exploring+EC2+%26+Networking" />
 
-### Cloud
-- AWS (EC2, S3, IAM, VPC)
+<br>
 
-### Operating Systems
-- Linux
+<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### Networking
-- TCP/IP
-- DNS
-- DHCP
-- Routing & Switching
-- Basic Network Security
-
-### DevOps & Tools
-- Git & GitHub
-- Docker
-- CI/CD Basics
-
-### Programming
-- Python (Basics)
-- Shell Scripting
+</div>
 
 ---
 
-## 📂 Projects
-Here are some projects included in this repository:
+# 🚀 About Me
 
-- AWS Cloud Projects
-- Linux Administration Practice
-- Networking Labs
-- DevOps Beginner Projects
-- Infrastructure & Deployment Practice
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
----
+- ☁️ Passionate about **Cloud Computing & AWS**
+- 🚀 Currently learning **EC2, S3, IAM & VPC**
+- 🐧 Exploring **Linux Administration**
+- 🌐 Learning **Networking Fundamentals**
+- ⚙️ Beginner in **DevOps & Automation**
+- 🎯 Goal: Become a skilled **Cloud Engineer**
 
-## 📚 Currently Learning
-- AWS Cloud Architecture
-- Docker & Containers
-- Terraform
-- CI/CD Pipelines
-- Linux Automation
+<br><br>
 
 ---
 
-## 🎯 Career Goal
-To become a skilled Cloud Engineer and work on scalable cloud infrastructure and deployment systems.
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash,python,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="70"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/suryavedwan
+# 📚 Currently Learning
+
+<div align="center">
+
+| ☁️ Cloud | ⚙️ DevOps | 🐧 Linux | 🌐 Networking |
+|---|---|---|---|
+| AWS EC2 | Docker | Linux Commands | TCP/IP |
+| AWS S3 | CI/CD Basics | Shell Scripting | DNS |
+| AWS IAM | GitHub Actions | User Management | DHCP |
+| AWS VPC | Automation | File Permissions | Routing |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+
+</div>
 
 ---
 
-⭐ Always learning and building new skills in Cloud & DevOps.
+# 💬 Ask Me About
+
+```yaml
+☁️ AWS Cloud Basics
+🚀 EC2 & S3
+🐧 Linux
+🌐 Networking
+⚙️ Beginner DevOps
+🔗 Git & GitHub
