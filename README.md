@@ -1,84 +1,118 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Surya Vedwan</h1>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Surya
-
-### AWS Certified Cloud Practitioner | Cloud & DevOps Enthusiast | AWS • Linux • Docker • Jenkins
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AWS+Cloud+Learner;Future+Cloud+Engineer;Learning+Linux+%26+DevOps;Building+Cloud+Projects;Exploring+EC2+%26+Networking" />
-
-<br>
-
-<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</div>
+<h3 align="center">
+AWS Certified Cloud Practitioner ☁️ | Cloud & DevOps Enthusiast | AWS • Docker • Jenkins • Linux
+</h3>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+🎓 BCA Graduate (2026)
 
-- ☁️ Passionate about **Cloud Computing & AWS**
-- 🚀 Currently learning **EC2, S3, IAM & VPC**
-- 🐧 Exploring **Linux Administration**
-- 🌐 Learning **Networking Fundamentals**
-- ⚙️ Beginner in **DevOps & Automation**
-- 🎯 Goal: Become a skilled **Cloud Engineer**
+☁️ AWS Certified Cloud Practitioner
 
-<br><br>
+🔄 Learning & Building in Cloud Engineering and DevOps
 
----
+🐳 Hands-on experience with Docker, Kubernetes, Jenkins & AWS
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash,python,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70"/>
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70"/>
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70"/>
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="70"/>
-
-</div>
+📍 Interested in:
+- Cloud Engineering
+- DevOps Engineering
+- Cloud Support
+- Infrastructure Automation
 
 ---
 
-# 📚 Currently Learning
+## 🛠 Tech Stack
 
-<div align="center">
+### Cloud
+- AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)
 
-| ☁️ Cloud | ⚙️ DevOps | 🐧 Linux | 🌐 Networking |
-|---|---|---|---|
-| AWS EC2 | Docker | Linux Commands | TCP/IP |
-| AWS S3 | CI/CD Basics | Shell Scripting | DNS |
-| AWS IAM | GitHub Actions | User Management | DHCP |
-| AWS VPC | Automation | File Permissions | Routing |
+### DevOps
+- Jenkins
+- Docker
+- Kubernetes
+- CI/CD
 
-</div>
+### Operating Systems
+- Linux (Ubuntu)
 
-<br>
+### Programming
+- Python
+- Bash
 
-<div align="center">
+### Version Control
+- Git
+- GitHub
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
-
-</div>
+### Networking
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Load Balancing
+- Subnetting
 
 ---
 
-# 💬 Ask Me About
+## 📌 Featured Projects
 
-```yaml
-☁️ AWS Cloud Basics
-🚀 EC2 & S3
-🐧 Linux
-🌐 Networking
-⚙️ Beginner DevOps
-🔗 Git & GitHub
+### 1. AWS Three-Tier Web Application Deployment
+
+Built and deployed a scalable three-tier architecture using:
+
+- EC2
+- RDS
+- S3
+- VPC
+- IAM
+- CloudWatch
+
+Features:
+✔ Secure networking  
+✔ Monitoring & Logging  
+✔ Production-style deployment  
+
+---
+
+### 2. CI/CD Pipeline Automation
+
+Tech:
+Jenkins + Docker + AWS + GitHub
+
+Features:
+✔ Automated deployment  
+✔ Containerized applications  
+✔ Continuous Integration  
+
+---
+
+### 3. Containerized Deployment with Kubernetes
+
+Tech:
+Docker + Kubernetes
+
+Features:
+✔ Replica Scaling  
+✔ Rolling Updates  
+✔ Deployment Automation  
+
+---
+
+## 🏆 Certifications
+
+✔ AWS Certified Cloud Practitioner  
+⏳ AWS Solutions Architect Associate (In Progress)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/surya-vedwan-237562247
+
+Email:
+chaudhrysurya@gmail.com
+
+GitHub:
+github.com/suryavedwan
