@@ -1,146 +1,164 @@
 <h1 align="center">Hi 👋 I'm Surya Vedwan</h1>
 
 <h3 align="center">
-☁️ Cloud & DevOps Engineer • AWS Certified
+☁️ AWS Certified Cloud Practitioner • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=AWS+Cloud;Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+%7C+DevOps"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+%7C+Infrastructure"/>
+
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360"/>
+
 </p>
 
 <br>
 
 ---
 
-# ☁️ CLOUD
+# 👨‍💻 About Me
 
-<div align="center">
+🎓 BCA Graduate — 2026  
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+☁️ AWS Certified Cloud Practitioner  
 
-EC2 • S3 • IAM • RDS • VPC • CloudWatch
+🚀 Building Cloud Infrastructure  
 
-</div>
+⚙️ Learning Kubernetes & Advanced AWS  
 
-<br>
-
----
-
-# ⚙️ DEVOPS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins"/>
-
-Docker • Kubernetes • Jenkins • CI/CD
-
-</div>
+🎯 Goal → Cloud Engineer / DevOps Engineer
 
 <br>
 
 ---
 
-# 💻 LANGUAGES
+# 🛠️ Tech Stack
 
-<div align="center">
+<br>
+
+### 💻 Languages & Scripting
+
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,bash"/>
 
-Python • Bash
-
-</div>
+</p>
 
 <br>
 
----
+### ☁️ Cloud & DevOps
 
-# 🖥️ OPERATING SYSTEM
+<p align="left">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-Linux (Ubuntu)
-
-</div>
+</p>
 
 <br>
 
----
+### 🔗 Version Control
 
-# 🔗 VERSION CONTROL
-
-<div align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github"/>
 
-Git • GitHub
+</p>
 
-</div>
+<br>
+
+### 🖥️ Operating System
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+<br>
+
+### 🌐 Networking
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/TCP/IP-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DNS-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HTTP-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HTTPS-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Subnetting-1D4ED8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Load_Balancing-0284C7?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+### 📊 Monitoring
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+</p>
 
 <br>
 
 ---
 
-# 🌐 NETWORKING
-
-<div align="center">
-
-TCP/IP • DNS • HTTP • HTTPS  
-Load Balancing • Subnetting
-
-</div>
+# 🚀 Projects
 
 <br>
 
----
+## ☁️ AWS Three Tier Web Application
 
-# 🚀 PROJECTS
-
-## ☁️ AWS Three Tier Deployment
-🟢 EC2  
-🟢 RDS  
-🟢 VPC  
-🟢 CloudWatch
+▫️ EC2 Deployment  
+▫️ RDS Integration  
+▫️ Secure VPC Setup  
+▫️ CloudWatch Monitoring  
 
 <br>
 
-## ⚡ CI/CD Pipeline
-🟢 Jenkins  
-🟢 Docker  
-🟢 GitHub  
-🟢 AWS
+## ⚙️ CI/CD Pipeline Automation
+
+▫️ Jenkins Automation  
+▫️ Docker Deployment  
+▫️ GitHub Integration  
+▫️ AWS EC2  
 
 <br>
 
 ## 🐳 Kubernetes Deployment
-🟢 Scaling  
-🟢 Services  
-🟢 Rolling Updates
+
+▫️ Scaling  
+▫️ Services  
+▫️ Rolling Updates  
 
 <br>
 
 ---
 
-# 🏆 CERTIFICATES
+# 🏆 Certifications
 
-<div align="center">
+<br>
 
-🥇 AWS Certified Cloud Practitioner
+🥇 AWS Certified Cloud Practitioner  
 
 📘 AWS Solutions Architect Associate *(In Progress)*
 
-</div>
-
 <br>
 
 ---
 
-# 📈 GITHUB
+# 📈 GitHub Stats
+
+<br>
 
 <div align="center">
 
@@ -158,7 +176,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=suryavedwan&theme=to
 
 ---
 
-# 📊 CONTRIBUTIONS
+# 📊 Contributions
+
+<br>
 
 <div align="center">
 
@@ -171,24 +191,32 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=suryavedwan&
 
 ---
 
-# 📫 CONNECT
+# 📫 Connect
+
+<br>
 
 <div align="center">
 
 <a href="mailto:chaudhrysurya@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 <br><br>
 
 <a href="https://linkedin.com/in/surya-vedwan-237562247">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <br><br>
 
 <a href="https://github.com/suryavedwan">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </div>
