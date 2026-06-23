@@ -1,117 +1,134 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/suryavedwan/suryavedwan/main/tech-banner.png" width="100%" />
-<br>
-
-👋 Hi, I’m Surya Vedwan
-
+<h1 align="center">
+  Hi 👋 I'm Surya Vedwan
+</h1>
+<h3 align="center">
+☁️ AWS Certified Cloud Practitioner • Cloud & DevOps Enthusiast • Future Cloud Engineer
+</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=AWS+Certified+Cloud+Practitioner;Cloud+%26+DevOps+Engineer;Docker+%7C+Jenkins+%7C+Kubernetes;Building+Cloud+Infrastructure;CI%2FCD+Automation+Enthusiast" />
+</p>
+---
+<!-- SMALL MOVING TECH BANNER -->
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</p>
+---
+# 🚀 About Me
+<img align="right" alt="cloud" width="350"
+src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+🎓 BCA Graduate (2026)
 ☁️ AWS Certified Cloud Practitioner
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Enthusiast;AWS+•+Linux+•+Docker+•+Jenkins;Building+Cloud+Infrastructure;CI%2FCD+Automation;Learning+Everyday"/>
-<br>
-<img src="https://komarev.com/ghpvc/?username=suryavedwan&style=for-the-badge&color=blue"/>
-</div>
-
-⸻
-
-🚀 About Me
-
-🎓 Bachelor of Computer Applications (Graduating 2026)
-
-☁️ AWS Certified Cloud Practitioner
-
-⚙️ Cloud & DevOps Enthusiast
-
-🚀 Interested in Cloud Engineer & DevOps roles
-
-🐳 Building deployment workflows with Docker & Kubernetes
-
-⸻
-
-⚡ Tech Stack
-
+⚡ Learning:
+- AWS Solutions Architect Associate
+- Kubernetes
+- Advanced DevOps
+🧠 Passionate About:
+- Cloud Infrastructure
+- CI/CD Automation
+- Containerization
+- Linux Systems
+- Scalable Deployments
+🎯 Goal:
+Become a **Cloud Engineer / DevOps Engineer**
+---
+# 🌐 Connect With Me
+<p align="center">
+<a href="mailto:chaudhrysurya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/surya-vedwan-237562247">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/suryavedwan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+---
+# ⚡ Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,python,bash,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,bash,python,vscode"/>
 </div>
-<br>
+---
+# ☁️ Cloud & DevOps Skills
 <div align="center">
-
-Cloud	DevOps	OS	Scripting
-AWS	Docker	Linux	Python
-EC2	Jenkins	Ubuntu	Bash
-S3	Kubernetes		
-RDS	GitHub		
-IAM	CI/CD		
-CloudWatch	Git		
-
+| Cloud | DevOps | Networking |
+|------|------|------|
+| AWS EC2 | Docker | TCP/IP |
+| S3 | Jenkins | DNS |
+| RDS | Kubernetes | HTTP |
+| IAM | GitHub Actions | Load Balancing |
+| VPC | CI/CD | Subnetting |
 </div>
-
-⸻
-
-🏗 Featured Projects
-
-☁️ AWS Three-Tier Web Application Deployment
-
-✅ EC2 Hosting
-✅ RDS Integration
-✅ Secure VPC Networking
-✅ IAM Access Controls
-✅ CloudWatch Monitoring
-
-⸻
-
-🔄 CI/CD Pipeline Automation
-
-✅ Jenkins Automation
-✅ Docker Containers
-✅ GitHub Deployment
-✅ AWS EC2 Integration
-
-⸻
-
-🐳 Containerized Application Deployment
-
-✅ Kubernetes Deployment
-✅ Replica Scaling
-✅ Rolling Updates
-✅ Docker Containerization
-
-⸻
-
-🏆 Certifications
-
-🥇 AWS Certified Cloud Practitioner
-
-⏳ AWS Certified Solutions Architect – Associate (In Progress)
-
-⸻
-
-📊 GitHub Stats
-
+---
+# 🏗 Featured Projects
+## ☁️ AWS Three-Tier Web Application
+✔ EC2 + RDS + VPC Architecture  
+✔ IAM Security  
+✔ Monitoring with CloudWatch  
+✔ Production Style Deployment  
+---
+## 🚀 CI/CD Automation Pipeline
+✔ Jenkins Automation  
+✔ Docker Containerization  
+✔ GitHub Integration  
+✔ AWS EC2 Deployment  
+---
+## 🐳 Kubernetes Deployment
+✔ Replica Scaling  
+✔ Rolling Updates  
+✔ Service Management  
+✔ High Availability  
+---
+# 📈 GitHub Analytics
 <div align="center">
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=suryavedwan&show_icons=true&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com?user=suryavedwan&theme=tokyonight"/>
 </div>
-<br>
-<div align="center">
-</div>
-
-⸻
-
-🌐 Connect With Me
-
-📧 Email
-chaudhrysurya@gmail.com
-
-💼 LinkedIn
-https://linkedin.com/in/surya-vedwan-237562247
-
-💻 GitHub
-https://github.com/suryavedwan
+---
+# 📊 Contribution Graph
+<p align="center">
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=suryavedwan&theme=react-dark"/>
+</p>
+---
+# 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=suryavedwan&theme=algolia&row=1&column=6"/>
+</p>
+---
+# 💡 Current Focus
+```yaml
+Cloud:
+  - AWS Architecture
+  - Infrastructure
+DevOps:
+  - CI/CD
+  - Kubernetes
+  - Docker
+Learning:
+  - Terraform
+  - Monitoring
 
 ⸻
 
 <div align="center">
 
-🚀 Code • Automate • Deploy • Repeat
+⚡ Building Cloud • Automating Deployments • Growing Every Day
 
-⭐ Cloud Engineer | DevOps Engineer | Cloud Support Engineer
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=140&section=footer"/>
 </div>
+```
+:::
+
+After pasting:
+
+1. Go to GitHub → New Repository
+2. Repository name → suryavedwan
+3. Make it Public
+4. Tick Add README
+5. Replace README content with this code
+6. Commit changes
+
+This setup will give you a polished Cloud / DevOps engineer portfolio profile with animation, UI sections, colored icons, and recruiter-friendly presentation.
