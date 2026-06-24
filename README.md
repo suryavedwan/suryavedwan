@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Surya Vedwan</h1>
 
 <h3 align="center">
-☁️ AWS Certified Cloud Practitioner • Cloud & DevOps Enthusiast
+☁️ • Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -22,13 +22,11 @@
 
 # 👨‍💻 About Me
 
-🎓 BCA Graduate — 2026  
-
-☁️ AWS Certified Cloud Practitioner  
+🎓 BCA Graduate — 2026    
 
 🚀 Building Cloud Infrastructure  
 
-⚙️ Learning Kubernetes & Advanced AWS  
+⚙️ Terraform & Advanced AWS  
 
 🎯 Goal → Cloud Engineer / DevOps Engineer
 
@@ -54,7 +52,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins"/>
 
 </p>
 
@@ -134,13 +132,6 @@
 
 <br>
 
-## 🐳 Kubernetes Deployment
-
-▫️ Scaling  
-▫️ Services  
-▫️ Rolling Updates  
-
-<br>
 
 ---
 
