@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+%7C+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker;CI%2FCD+Automation;Linux+%7C+Infrastructure"/>
 
 </p>
 
@@ -22,11 +22,11 @@
 
 # 👨‍💻 About Me
 
-🎓 BCA Graduate — 2026    
+🎓 BCA Graduate — 2026
 
-🚀 Building Cloud Infrastructure  
+🚀 Building Cloud Infrastructure & Automation
 
-⚙️ Terraform & Advanced AWS  
+⚙️ AWS • Terraform • CI/CD
 
 🎯 Goal → Cloud Engineer / DevOps Engineer
 
@@ -52,7 +52,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,githubactions"/>
 
 </p>
 
@@ -98,11 +98,13 @@
 
 <br>
 
-### 📊 Monitoring
+### 📊 Monitoring & Security
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws"/>
 
 </p>
 
@@ -114,24 +116,53 @@
 
 <br>
 
-## ☁️ AWS Three Tier Web Application
+## ☁️ Production-Style AWS Infrastructure Provisioning using Terraform
 
-▫️ EC2 Deployment  
-▫️ RDS Integration  
-▫️ Secure VPC Setup  
-▫️ CloudWatch Monitoring  
+▫️ AWS EC2, VPC, IAM & S3
 
-<br>
+▫️ Infrastructure as Code (Terraform)
 
-## ⚙️ CI/CD Pipeline Automation
+▫️ Reusable Terraform Modules
 
-▫️ Jenkins Automation  
-▫️ Docker Deployment  
-▫️ GitHub Integration  
-▫️ AWS EC2  
+▫️ State Management & Automation
+
+▫️ Cloud Security Best Practices
+
+▫️ Automated Infrastructure Provisioning
 
 <br>
 
+## ⚙️ Automated CI/CD Deployment Pipeline on AWS
+
+▫️ Jenkins Automation
+
+▫️ Docker Deployment
+
+▫️ GitHub Integration
+
+▫️ AWS EC2 Provisioning
+
+▫️ Terraform Infrastructure
+
+▫️ Python & Linux Automation
+
+<br>
+
+## 📊 Cloud Monitoring & Cost Optimisation System
+
+▫️ AWS CloudWatch Dashboards
+
+▫️ SNS Alert Notifications
+
+▫️ Infrastructure Monitoring
+
+▫️ Bash & Python Automation
+
+▫️ Resource Utilisation Tracking
+
+▫️ Cost-Aware Cloud Operations
+
+<br>
 
 ---
 
@@ -139,9 +170,7 @@
 
 <br>
 
-🥇 AWS Certified Cloud Practitioner  
-
-📘 AWS Solutions Architect Associate *(In Progress)*
+📘 AWS Certified Solutions Architect Associate (SAA-C03) *(In Progress)*
 
 <br>
 
@@ -221,4 +250,3 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=suryavedwan&
 ### ☁️ BUILD • AUTOMATE • DEPLOY
 
 </div>
-
