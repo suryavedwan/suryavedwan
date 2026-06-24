@@ -52,7 +52,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,jenkins,githubactions"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,githubactions"/>
 
 </p>
 
