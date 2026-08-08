@@ -116,51 +116,83 @@
 
 <br>
 
-## ☁️ Production-Style AWS Infrastructure Provisioning using Terraform
+## ☁️ AWS Infrastructure Provisioning using Terraform
 
-▫️ AWS EC2, VPC, IAM & S3
+▫️ Provisioned 15+ AWS resources including VPC, EC2, Subnets, Security Groups & IAM
 
 ▫️ Infrastructure as Code (Terraform)
 
-▫️ Reusable Terraform Modules
+▫️ Reusable Terraform Modules & State Management
 
-▫️ State Management & Automation
+▫️ Reduced Infrastructure Provisioning Time from 40+ Minutes to Under 10 Minutes
 
-▫️ Cloud Security Best Practices
+▫️ Bash Automation for Deployment & Configuration
 
-▫️ Automated Infrastructure Provisioning
-
-<br>
-
-## ⚙️ Automated CI/CD Deployment Pipeline on AWS
-
-▫️ Jenkins Automation
-
-▫️ Docker Deployment
-
-▫️ GitHub Integration
-
-▫️ AWS EC2 Provisioning
-
-▫️ Terraform Infrastructure
-
-▫️ Python & Linux Automation
+▫️ Repeatable & Consistent Cloud Infrastructure
 
 <br>
 
-## 📊 Cloud Monitoring & Cost Optimisation System
+## ⚙️ CI/CD Pipeline using Jenkins, Docker & Kubernetes
 
-▫️ AWS CloudWatch Dashboards
+▫️ Automated CI/CD Pipeline with Jenkins
 
-▫️ SNS Alert Notifications
+▫️ Docker Image Build & Containerization
 
-▫️ Infrastructure Monitoring
+▫️ Kubernetes Application Deployment
 
-▫️ Bash & Python Automation
+▫️ Git & GitHub Integration
 
-▫️ Resource Utilisation Tracking
+▫️ Reduced Deployment Time from 20 Minutes to Under 3 Minutes
 
-▫️ Cost-Aware Cloud Operations
+▫️ Automated Deployment & Operational Tasks using Bash
+
+<br>
+
+## 🖥️ Linux Server Management Automation Suite
+
+▫️ Linux Server Administration & Automation
+
+▫️ 10+ Bash Scripts for Recurring Administrative Tasks
+
+▫️ Automated User Management, Backups & Log Cleanup
+
+▫️ Service Monitoring & System Health Checks
+
+▫️ Cron-Based Scheduled Maintenance
+
+▫️ Reduced Manual Administration Effort by ~70%
+
+<br>
+
+## 🌐 Three-Tier Web Application Deployment on AWS
+
+▫️ AWS VPC, EC2, RDS, ALB & Auto Scaling
+
+▫️ Public & Private Subnet Architecture
+
+▫️ Terraform Infrastructure Provisioning
+
+▫️ Docker Containerization & Jenkins CI/CD
+
+▫️ IAM-Based Access Control & CloudWatch Monitoring
+
+▫️ Designed for Scalability, High Availability & Secure Access
+
+<br>
+
+## 📊 Kubernetes Monitoring Stack using Prometheus & Grafana
+
+▫️ Kubernetes Monitoring with Prometheus & Grafana
+
+▫️ 8+ Grafana Dashboards for Infrastructure & Application Metrics
+
+▫️ 10+ Alert Rules for CPU, Memory & Service Health
+
+▫️ Alertmanager-Based Notifications
+
+▫️ Kubernetes Cluster & Workload Monitoring
+
+▫️ Improved Visibility into Application & Infrastructure Health
 
 <br>
 
