@@ -234,8 +234,19 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=suryavedwan&theme=to
 
 <div align="center">
 
+<!-- GitHub Contribution Heatmap -->
+
 <img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=suryavedwan&theme=tokyo-night"/>
+src="https://ghchart.rshah.org/38BDF8/suryavedwan"
+alt="GitHub Contribution Graph"/>
+
+<br><br>
+
+<!-- GitHub Activity Graph -->
+
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=suryavedwan&theme=tokyo-night"
+alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -249,7 +260,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=suryavedwan&
 
 <div align="center">
 
-<a href="mailto:chaudhrysurya@gmail.com">
+<a href="mailto:suryavedwanwork@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 
