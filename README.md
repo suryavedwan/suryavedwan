@@ -62,9 +62,12 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,helm,jenkins,githubactions"/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,jenkins,githubactions"/>
+
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 
 </p>
+
 
 <br>
 
