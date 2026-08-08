@@ -48,11 +48,31 @@
 
 <br>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,githubactions"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+</p>
+
+<br>
+
+### ⚙️ DevOps & Infrastructure
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,helm,jenkins,githubactions"/>
+
+</p>
+
+<br>
+
+### 🌐 Web & Reverse Proxy
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nginx"/>
 
 </p>
 
@@ -78,11 +98,25 @@
 
 <br>
 
+### 📊 Monitoring & Observability
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+
+<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+<br>
+
 ### 🌐 Networking
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/TCP/IP-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DNS-0EA5E9?style=for-the-badge"/>
 
@@ -98,13 +132,13 @@
 
 <br>
 
-### 📊 Monitoring & Security
+### 🔐 Security & Database
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
@@ -260,7 +294,7 @@ alt="GitHub Activity Graph"/>
 
 <div align="center">
 
-<a href="mailto:suryavedwanwork@gmail.com">
+<a href="mailto:chaudhrysurya@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 
