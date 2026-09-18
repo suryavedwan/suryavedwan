@@ -1,332 +1,233 @@
 <h1 align="center">Hi 👋 I'm Surya Vedwan</h1>
-
 <h3 align="center">
-☁️ • Cloud & DevOps Enthusiast
+💻 • Java Backend Developer | Software Developer
 </h3>
-
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker;CI%2FCD+Automation;Linux+%7C+Infrastructure"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;SQL+%7C+PostgreSQL+%7C+Hibernate;Building+Backend+Applications;Exploring+Generative+AI+%26+Cloud"/>
 </p>
-
 <p align="center">
-
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360"/>
-
 </p>
-
 <br>
 
----
+⸻
 
-# 👨‍💻 About Me
+👨‍💻 About Me
 
 🎓 BCA Graduate — 2026
 
-🚀 Building Cloud Infrastructure & Automation
+☕ Focused on Java Backend & Software Development
 
-⚙️ AWS • Terraform • CI/CD
+🚀 Building REST APIs and database-driven applications
 
-🎯 Goal → Cloud Engineer / DevOps Engineer
+🧠 Strengthening Java, OOP, Data Structures & Algorithms and SQL
+
+🌱 Learning Spring Boot, Hibernate/JPA and Backend Development
+
+🔐 Exploring Spring Security & JWT Authentication
+
+🤖 Exploring Generative AI & Spring AI
+
+☁️ Additional knowledge of AWS, Docker & Linux
+
+🎯 Goal → Java Developer / Backend Developer / Software Developer
 
 <br>
 
----
+⸻
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <br>
 
-### 💻 Languages & Scripting
+☕ Programming Languages
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,bash"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,js"/>
 </p>
-
 <br>
 
-### ☁️ Cloud
+🧠 Core Computer Science
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java%20Collections-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
-
 <br>
 
-### ⚙️ DevOps & Infrastructure
+🌱 Backend Development
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,jenkins,githubactions"/>
-
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
+<img src="https://img.shields.io/badge/REST%20APIs-API%20Development-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Security-Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
-
-
 <br>
 
-### 🌐 Web & Reverse Proxy
+🗄️ Databases
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nginx"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
 </p>
-
+<p align="left">
+<img src="https://img.shields.io/badge/SQL-Database%20Queries-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPA-Java%20Persistence%20API-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
 <br>
 
-### 🔗 Version Control
+🔧 Development Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux"/>
 </p>
-
+<p align="left">
+<img src="https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-API%20Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
 <br>
 
-### 🖥️ Operating System
+🤖 Generative AI
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
+<img src="https://img.shields.io/badge/Generative%20AI-Applications-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20AI-AI%20Integration-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-AI%20Search-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Tool%20Calling-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=for-the-badge"/>
 </p>
-
 <br>
 
-### 📊 Monitoring & Observability
+☁️ Cloud & Deployment
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
-
-<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
 </p>
-
-<br>
-
-### 🌐 Networking
-
 <p align="left">
-
-<img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DNS-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HTTP-3B82F6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HTTPS-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Subnetting-1D4ED8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Load_Balancing-0284C7?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-Compute-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-Database-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-Security-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
 </p>
+<br>
+
+⸻
+
+🚀 Projects
 
 <br>
 
-### 🔐 Security & Database
+🎓 Student Management REST API
 
-<p align="left">
+Java • Spring Boot • PostgreSQL • JPA/Hibernate • REST APIs • Swagger
 
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+▫️ Built a backend application for managing student records
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+▫️ Implemented CRUD operations using Spring Boot and Spring Data JPA
 
-</p>
+▫️ Integrated PostgreSQL for persistent data storage
 
-<br>
+▫️ Applied Controller → Service → Repository layered architecture
 
----
+▫️ Added validation, exception handling, search, pagination and sorting
 
-# 🚀 Projects
-
-<br>
-
-## ☁️ AWS Infrastructure Provisioning using Terraform
-
-▫️ Provisioned 15+ AWS resources including VPC, EC2, Subnets, Security Groups & IAM
-
-▫️ Infrastructure as Code (Terraform)
-
-▫️ Reusable Terraform Modules & State Management
-
-▫️ Reduced Infrastructure Provisioning Time from 40+ Minutes to Under 10 Minutes
-
-▫️ Bash Automation for Deployment & Configuration
-
-▫️ Repeatable & Consistent Cloud Infrastructure
+▫️ Documented APIs using Swagger/OpenAPI
 
 <br>
 
-## ⚙️ CI/CD Pipeline using Jenkins, Docker & Kubernetes
+✅ Task Management REST API
 
-▫️ Automated CI/CD Pipeline with Jenkins
+Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA/Hibernate
 
-▫️ Docker Image Build & Containerization
+▫️ Built a secure task management backend application
 
-▫️ Kubernetes Application Deployment
+▫️ Implemented user registration and login using Spring Security
 
-▫️ Git & GitHub Integration
+▫️ Added JWT-based authentication and authorization
 
-▫️ Reduced Deployment Time from 20 Minutes to Under 3 Minutes
+▫️ Developed task management with status, priority and due dates
 
-▫️ Automated Deployment & Operational Tasks using Bash
+▫️ Implemented filtering and pagination
 
-<br>
-
-## 🖥️ Linux Server Management Automation Suite
-
-▫️ Linux Server Administration & Automation
-
-▫️ 10+ Bash Scripts for Recurring Administrative Tasks
-
-▫️ Automated User Management, Backups & Log Cleanup
-
-▫️ Service Monitoring & System Health Checks
-
-▫️ Cron-Based Scheduled Maintenance
-
-▫️ Reduced Manual Administration Effort by ~70%
+▫️ Added validation and global exception handling
 
 <br>
 
-## 🌐 Three-Tier Web Application Deployment on AWS
+🛒 E-Commerce Backend Application
 
-▫️ AWS VPC, EC2, RDS, ALB & Auto Scaling
+Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA/Hibernate • Docker • AWS
 
-▫️ Public & Private Subnet Architecture
+▫️ Developed a backend application for core e-commerce workflows
 
-▫️ Terraform Infrastructure Provisioning
+▫️ Implemented user authentication and role-based authorization
 
-▫️ Docker Containerization & Jenkins CI/CD
+▫️ Built product, category, cart, inventory and order APIs
 
-▫️ IAM-Based Access Control & CloudWatch Monitoring
+▫️ Designed relational database entities using JPA/Hibernate
 
-▫️ Designed for Scalability, High Availability & Secure Access
+▫️ Added validation, exception handling, pagination and search
 
-<br>
+▫️ Containerized the application using Docker
 
-## 📊 Kubernetes Monitoring Stack using Prometheus & Grafana
-
-▫️ Kubernetes Monitoring with Prometheus & Grafana
-
-▫️ 8+ Grafana Dashboards for Infrastructure & Application Metrics
-
-▫️ 10+ Alert Rules for CPU, Memory & Service Health
-
-▫️ Alertmanager-Based Notifications
-
-▫️ Kubernetes Cluster & Workload Monitoring
-
-▫️ Improved Visibility into Application & Infrastructure Health
+▫️ Deployed the application on AWS
 
 <br>
 
----
+⸻
 
-# 🏆 Certifications
-
-<br>
-
-📘 AWS Certified Solutions Architect Associate (SAA-C03) *(In Progress)*
+🏆 Certifications
 
 <br>
 
----
-
-# 📈 GitHub Stats
+📘 AWS Certified Solutions Architect – Associate (SAA-C03) (In Progress)
 
 <br>
 
+⸻
+
+📈 GitHub Stats
+
+<br>
 <div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=suryavedwan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=suryavedwan&theme=tokyonight&hide_border=true"/>
-
 </div>
-
 <br>
 
----
+⸻
 
-# 📊 Contributions
+📊 Contributions
 
 <br>
-
 <div align="center">
-
-<!-- GitHub Contribution Heatmap -->
-
-<img width="95%"
-src="https://ghchart.rshah.org/38BDF8/suryavedwan"
-alt="GitHub Contribution Graph"/>
-
-<br><br>
-
-<!-- GitHub Activity Graph -->
-
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=suryavedwan&theme=tokyo-night"
-alt="GitHub Activity Graph"/>
-
 </div>
-
 <br>
 
----
+⸻
 
-# 📫 Connect
+📫 Connect
 
 <br>
-
 <div align="center">
-
 <a href="mailto:suryvedwanwork@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
 </a>
-
-<br><br>
-
 <a href="https://linkedin.com/in/surya-vedwan-237562247">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
 </a>
-
-<br><br>
-
 <a href="https://github.com/suryavedwan">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
-
 </div>
-
 <br>
 
----
+⸻
 
 <div align="center">
 
-### ☁️ BUILD • AUTOMATE • DEPLOY
+💻 BUILD • LEARN • DEPLOY • IMPROVE 🚀
 
 </div>
