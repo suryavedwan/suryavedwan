@@ -180,15 +180,6 @@ Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA/Hibernat
 
 ⸻
 
-🏆 Certifications
-
-<br>
-
-📘 AWS Certified Solutions Architect – Associate (SAA-C03) (In Progress)
-
-<br>
-
-⸻
 
 📈 GitHub Stats
 
